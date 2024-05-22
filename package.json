@@ -1,0 +1,26 @@
+{
+  "name": "@mortazavi21/tiamo-tea",
+  "version": "1.0.0",
+  "description": "Tea Testnet Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mortazavi21/tiamo-tea.git"
+  },
+  "keywords": [
+    "TEA",
+    "Guide"
+  ],
+  "author": "Mortazavi\u001b[H\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mortazavi21/tiamo-tea/issues"
+  },
+  "homepage": "https://github.com/mortazavi21/tiamo-tea#readme",
+  "dependencies": {
+    "tiamo-tea": "^1.0.0"
+  }
+}
